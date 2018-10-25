@@ -8,3 +8,4 @@ python3 gen_miRNA_matrix.py,
 python3 predict.py, 
 python3 neural_predict.py
 python3 pca.py
+python3 roc.py
